@@ -22,7 +22,7 @@ It provides:
 ## Files Used
 
 - Script:
-  - `C:\Users\E9ine\AppData\Local\VeryVanilla\Emu\Release\lua\autohunt.lua`
+  - `autohunt.lua`
 - Settings:
   - `<MQ configDir>/autohunt_settings.lua`
 - Priority list storage:
